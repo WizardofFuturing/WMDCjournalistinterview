@@ -12,7 +12,7 @@ sender_email = "interview@wmdc.media"
 receiver_email = "worldoffuturing@gmail.com"
 username = "interview@wmdc.media"
 password = "LvG[z6WKn!S;"
-smtp_server = "wmdc.media"
+smtp_server = "premium280.web-hosting.com"
 smtp_port = 465
 
 # In-memory storage for session activity timestamps
